@@ -3,7 +3,7 @@ import json,secrets,threading,sys,requests,re,base64,hmac,hashlib,string,random,
 from colorama import init,Fore
 init()
 ctypes.windll.kernel32.SetConsoleTitleW(
-                f"discord.gg/darkcloud")
+                f"discord.gg/deadlyhometown")
 os.system('cls')
 print(Fore.RED+"""
 
@@ -20,7 +20,7 @@ print(Fore.RED+"""
  ░                                                                                                                           
                                                                                            
 
-                    Made By Dark Cloud 
+                    Made By Lakshya 
                     """)
 print("")
 print("")
@@ -50,7 +50,7 @@ print(Fore.RED+"""
  ░                                                                                              
                                                                                            
 
-                    Made by Darkcloud 
+                    Made by Lakshya 
                     """)
 print("")
 print("")
